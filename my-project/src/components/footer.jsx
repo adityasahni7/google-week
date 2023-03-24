@@ -1,9 +1,3 @@
-import React from 'react'
-
-export default function footer() {
-    return (
-        <div>
-            <h1>Footer</h1>
-        </div>
-    )
-}
+import logo from './logo.svg';
+import './App.css';
+import Footer from "./com"
